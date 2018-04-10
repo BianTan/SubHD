@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>PullRefreshLayout</name>
+        <url>https://github.com/SIdQi/PullRefreshLayout</url>
+    </notice>
+    <notice>
+        <name>jsoup</name>
+        <url>https://github.com/jhy/jsoup</url>
+        <copyright>Copyright (c) 2009-2018 Jonathan Hedley</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>okhttp</name>
+        <url>https://github.com/square/okhttp</url>
+        <copyright>Copyright 2016 Square, Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>glide</name>
+        <url>https://github.com/bumptech/glide</url>
+    </notice>
+</notices>
