@@ -20,4 +20,10 @@
         <name>glide</name>
         <url>https://github.com/bumptech/glide</url>
     </notice>
+    <notice>
+        <name>LicensesDialog</name>
+        <url>https://psdev.de/LicensesDialog/</url>
+        <copyright>Copyright 2013 Philip Schiffer</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
 </notices>
